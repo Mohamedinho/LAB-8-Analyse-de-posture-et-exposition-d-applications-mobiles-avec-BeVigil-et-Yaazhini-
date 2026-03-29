@@ -14,8 +14,8 @@
 ## 3. Fuites de Données (Secrets & Strings)
 L'analyse des ressources strings.xml révèle des identifiants sensibles codés en dur :
 - ids1_password : Mot de passe de test exposé.
-- pic2_label : Référence à des clés API.
-- pic_label : Clés d'accès aux services tiers.
+- pic2_label : Référence à des clés API.
+- pic_label : Clés d'accès aux services tiers.
 
 ## 4. Permissions Critiques
 | Permission | État | Risque |
