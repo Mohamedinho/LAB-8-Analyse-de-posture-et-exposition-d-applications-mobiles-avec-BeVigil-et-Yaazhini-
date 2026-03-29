@@ -1,5 +1,5 @@
 ﻿# Rapport d'analyse de sécurité mobile - DIVA
-Analyste : Mohamed (EMSI)
+Analyste : Mohamed DOUASSI (EMSI)
 Niveau de Risque : CRITIQUE
 
 ## Constats Majeurs
